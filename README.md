@@ -1,6 +1,8 @@
 Шпаргалка по Markdown
 ---------------------
 
+# 1 Изменение заголовка
+
 (перевод, [оригинал](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
 Поиграть с разметкой Markdown можно на [демо-странице](http://www.markdown-here.com/livedemo.html).
