@@ -1,7 +1,7 @@
 Шпаргалка по Markdown
 ---------------------
 
-# 1 Изменение заголовка
+## 2 Изменение заголовка
 
 (перевод, [оригинал](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
